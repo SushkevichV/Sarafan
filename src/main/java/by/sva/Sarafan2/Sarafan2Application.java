@@ -4,11 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 /* REST -приложение
- * ссылка на урок https://www.youtube.com/watch?v=LOmcsf5IylI&list=PLU2ftbIeotGpAYRP9Iv2KLIwK36-o_qYk&index=19
  * Vue.js - https://ru.vuejs.org/v2/guide/#%D0%9D%D0%B0%D1%87%D0%B0%D0%BB%D0%BE-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B
+ * oAuth2 авторизация - https://spring.io/guides/tutorials/spring-boot-oauth2/
  */
 
-// oAuth2 авторизация - https://spring.io/guides/tutorials/spring-boot-oauth2/
 
 @SpringBootApplication
 public class Sarafan2Application {
